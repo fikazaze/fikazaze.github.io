@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fikazaze.github.io/sitemap/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/FIe/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/TCI/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/Ykf/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/GSJ/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/DXN/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/Lyj/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/OZe/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/EBt/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/ots/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/tiE/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/TJD/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/emh/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/vcn/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/ykV/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/Wxo/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/sAO/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/GXL/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/jhF/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/ucM/sitemap_index.fikazaze
+Sitemap: https://fikazaze.github.io/QAI/sitemap_index.fikazaze
